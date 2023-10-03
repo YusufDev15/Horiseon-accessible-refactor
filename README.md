@@ -8,26 +8,21 @@ My main motivation is to ensure that all individuals, regardless of their physic
 can access and interact with this website. Web accessibility promotes inclusivity by breaking down barriers and 
 allowing a broader audience to participate in online activities. Making this website accessible fosters a sense of 
 connection and community. Knowing that your digital presence is accessible to all can be personally rewarding and 
-fulfilling. The primary problem solved by making this wesbite accessible is the exclusion of individuals with 
-diabilities. To also avoid poor user experiences, not only for individuals with disabilities but for all users. 
+fulfilling. The primary problem solved by making this website accessible is the exclusion of individuals with 
+disabilities. To also avoid poor user experiences, not only for individuals with disabilities but for all users. 
 Limiting our potential audience and market share. I learnt during this process that using semantic HTML and 
 providing descriptive alt text for images, can improve a website's search engine ranking and inaccessible websites 
-may suffer from lower visibility in search engine results.
+may suffer from lower visibility in search engine results. 
 
 
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+Theres no installation required, this is a standard HTML file.
     
 ## Usage/Examples
 
-![alt text](./assets/images/)
+![alt text](./assets/images/screencapture-file-C-Users-Yusuf-OneDrive-desktop-class-Challenges-01-code-refactor-challenge-Horiseon-accessible-re.png)
 
 
 
